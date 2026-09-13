@@ -1,0 +1,2 @@
+Chinese Character Puzzle + Platform Core v1.0.0
+Build: 2026-09-13
